@@ -43,26 +43,26 @@ Como resultado de realizar este proyecto se obtiene:
 - Una representación de componentes y distancias genéticas usando PCA, fácil de entender para cualquier persona.
 - Un ejemplo didáctico perfecto de cómo funcionan los test de ancestrología.
 
-#### Limitaciones del análisis:
+### Limitaciones del análisis:
 - Este proyecto está hecho con una finalidad didáctica, los datos son simulados, no tienen por qué tener rigor histórico o biológico y, sobre todo, no deben ser tomados en serio.
 ---
 
-### Visualizaciones
-#### Cambio porcentual generacional:  
+## Visualizaciones
+### Cambio porcentual generacional:  
 
 ![Cambio porcentual generacional](images/cambio_porcentual_generacional.png)
 
-#### Distribucón Variable Objetivo en el entrenamiento del modelo:  
+### Distribucón Variable Objetivo en el entrenamiento del modelo:  
 
 ![Distribución Variable Objetivo](images/distribucion_variable_objetivo_train.png)
 
-#### Evolución Genética Generacional:  
+### Evolución Genética Generacional:  
 
 ![Evolución Genética Generacional](images/evolucion_generacional.png)
 
 ![Comparación Generación 3 y 9](images/medias_desviacion_generaciones_3_9.png)
 
-#### Respuesta final tras consultar al modelo a traves de la API:  
+### Respuesta final tras consultar al modelo a traves de la API:  
 
 ![Respuesta final modelo](images/respuesta_solicitud.png)
 
