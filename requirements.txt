@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+nest-asyncio
+pyngrok
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+gdown
+requests
+pillow
+pydantic
