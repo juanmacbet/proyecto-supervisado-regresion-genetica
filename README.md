@@ -44,7 +44,7 @@ Como resultado de realizar este proyecto se obtiene:
 - Un ejemplo didáctico perfecto de cómo funcionan los test de ancestrología.
 
 #### Limitaciones del análisis:
-Este proyecto está hecho con una finalidad didáctica, los datos son simulados, no tienen por qué tener rigor histórico o biológico y, sobre todo, no deben ser tomados en serio.
+- Este proyecto está hecho con una finalidad didáctica, los datos son simulados, no tienen por qué tener rigor histórico o biológico y, sobre todo, no deben ser tomados en serio.
 ---
 
 ### Visualizaciones
